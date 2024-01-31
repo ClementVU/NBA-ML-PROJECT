@@ -71,8 +71,3 @@ The project is organized into the following sections:
 
 - Summarize findings, discuss the predictive capabilities of the models, and suggest potential areas for improvement.
 
-## Tutorial Acknowledgment
-
-Special thanks to [Tutorial Author's Name] for the insightful tutorial that served as the inspiration for this NBA Match Prediction project.
-
-Feel free to customize this template further based on your specific project details and needs.
